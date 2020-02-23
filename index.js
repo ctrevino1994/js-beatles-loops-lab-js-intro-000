@@ -14,6 +14,6 @@ const facts = ["He was the last Beatle to learn how to drive", "He was never a v
 function johnLennonFacts(){
   while (facts < 4) {
   console.log(`${facts}!!!`)
-  facts += 1;
+  
   }
 }
